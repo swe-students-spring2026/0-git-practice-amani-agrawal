@@ -3,7 +3,9 @@
 ## Article Details
 
 **Title**: [The First Thing I Check in Every Codebase](https://medium.com/@saeedhbi/the-first-thing-i-check-in-every-codebase-1c7c61d3bcd1)
+
 **Author:** Saeed H. Behbahani
+
 **Publication:** Medium
 
 ## Reflection
