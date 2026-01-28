@@ -1,4 +1,4 @@
-[The First Thing I Check in Every Codebase — Saeed H. Behbahani](https://medium.com/@saeedhbi/the-first-thing-i-check-in-every-codebase-1c7c61d3bcd1)
+[The First Thing I Check in Every Codebase](https://medium.com/@saeedhbi/the-first-thing-i-check-in-every-codebase-1c7c61d3bcd1) — Saeed H. Behbahani
 
 
 This article is interesting because it highlights how software quality is often revealed by small, early signals, rather than deep dives into complex logic. The author explains that the first thing they check in a new codebase is how easy it is to understand its structure, naming conventions, and overall organization. This resonates with the idea that good software is not just about correctness, but also about clarity and maintainability.
